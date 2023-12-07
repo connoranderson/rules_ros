@@ -18,7 +18,7 @@ Specific rules for message generation and packaging are provided in this reposit
 
 This is still work in progress. Some essential parts are not complete yet.
 Here is a short list of major restrictions:
-* Only tested on Ubunut 20.04 Linux (x86_64). Other Linux distributions may work. Windows
+* Only tested on Ubuntu 20.04 Linux (x86_64). Other Linux distributions may work. Windows
   will not be supported in the foreseeable future.
 * Only ROS 2 Humble is supported. Other distros may work after extending
   `@rules_ros//repos/config/defs.bzl` accordingly.
